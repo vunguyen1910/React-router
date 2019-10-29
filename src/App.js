@@ -7,6 +7,7 @@ import CandidatesPage from "./pages/CandidatesPage"
 import CompanyPage from "./pages/CompanyPage"
 import Navibar from "./components/Navibar"
 import CandidatePage from "./pages/CandidatePage"
+import store from "./redux/store"
 
 function App() {
   return (
